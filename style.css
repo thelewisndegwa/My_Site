@@ -6,10 +6,32 @@
 }
 
 #navigation{
-    float: left;
+    
 	  color: black;
 	  text-align: center;
 	  padding: 14px 16px;
-	  text-decoration: none;
 	  font-size: 20px;
+}
+
+#photo{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+#intro{
+
+    color: black;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#buttons{
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 20px;
 }
