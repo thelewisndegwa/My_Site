@@ -15,12 +15,7 @@
 }
 
 #photo{
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-
-    display: block;
+  display: block;
     margin-left: auto;
     margin-right: auto;
 
